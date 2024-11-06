@@ -1,0 +1,17 @@
+Custom Error Codes for CS Innovations ALS-321 (and related) Projects.
+
+Code	Description
+5000	Unspecified, general error
+5001	Illegal CSI20 Protocol Type
+5002	CRC Mismatch
+5003	Incorrect Number of Payload Bytes
+5004	Retry Limit Exceeded: Set NVM Input Refresh Rate
+5005	Retry Limit Exceeded: Set NVM Input Mode-Range
+5006	Serial Config Unknown
+5007	Wrong Test Type
+5008	Start Test pressed while Test Status = Running or Initializing
+5009	Ramp Increment = 0
+5010	Test Type mismatch for this board
+5011	Action not supported by ALS_PXI-4030 Action Engine
+5012	Incorrect test type for Output
+5013	Address "%d" outside ALS_TAB Channels.

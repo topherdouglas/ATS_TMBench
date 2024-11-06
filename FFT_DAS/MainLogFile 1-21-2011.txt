@@ -1,0 +1,110 @@
+2011-01-21 11:54:12.511	Instrument_IO	No SystemName::-5011
+2011-01-21 11:54:13.010	Instrument_IO	NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<42>::-50103
+2011-01-21 11:54:23.311	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<42>::-50103
+2011-01-21 11:56:44.278	Instrument_IO	No SystemName::-5011
+2011-01-21 11:56:44.778	Instrument_IO	NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<44>::-50103
+2011-01-21 11:56:55.278	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<44>::-50103
+2011-01-21 11:08:13.376	Instrument_IO	No SystemName::-5011
+2011-01-21 11:08:13.876	Instrument_IO	NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<46>::-50103
+2011-01-21 11:09:01.095	Instrument_IO	No SystemName::-5011
+2011-01-21 11:09:01.595	Instrument_IO	NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<48>::-50103
+2011-01-21 11:09:12.095	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<48>::-50103
+2011-01-21 11:09:22.595	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<48>::-50103
+2011-01-21 11:09:33.095	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<48>::-50103
+2011-01-21 11:12:37.073	Instrument_IO	No SystemName::-5011
+2011-01-21 11:12:37.573	Instrument_IO	NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:12:47.873	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:12:58.373	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:13:08.872	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:13:19.373	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:13:29.873	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:13:40.273	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:13:50.773	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:14:01.272	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:14:11.773	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:14:22.073	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:14:32.573	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:14:43.073	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4A>::-50103
+2011-01-21 11:14:54.671	Instrument_IO	No SystemName::-5011
+2011-01-21 11:14:55.171	Instrument_IO	NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4C>::-50103
+2011-01-21 11:15:05.571	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4C>::-50103
+2011-01-21 11:15:16.071	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4C>::-50103
+2011-01-21 11:15:17.216	Control_Loops	Shutdown Complete
+2011-01-21 11:15:25.360	Instrument_IO	No SystemName::-5011
+2011-01-21 11:15:25.860	Instrument_IO	NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4E>::-50103
+2011-01-21 11:15:36.360	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4E>::-50103
+2011-01-21 11:15:46.860	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<4E>::-50103
+2011-01-21 11:15:52.411	Control_Loops	Shutdown Complete
+2011-01-21 11:15:52.443	Instrument_IO	Shutdown Complete
+2011-01-21 11:16:52.094	Instrument_IO	No SystemName::-5011
+2011-01-21 11:16:52.594	Instrument_IO	NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<50>::-50103
+2011-01-21 11:17:03.094	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<50>::-50103
+2011-01-21 11:17:13.593	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<50>::-50103
+2011-01-21 11:17:23.894	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<50>::-50103
+2011-01-21 11:17:34.394	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<50>::-50103
+2011-01-21 11:17:44.894	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<50>::-50103
+2011-01-21 11:17:55.394	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<50>::-50103
+2011-01-21 11:18:05.893	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<50>::-50103
+2011-01-21 11:18:16.294	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<50>::-50103
+2011-01-21 11:21:32.242	Instrument_IO	No SystemName::-5011
+2011-01-21 11:21:32.742	Instrument_IO	NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:21:43.242	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:21:53.742	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:22:04.042	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:22:14.542	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:22:25.042	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:22:35.542	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:22:45.841	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:22:56.342	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:23:06.842	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:23:17.342	Instrument_IO	Persistent Error: NGTS_DAQmx AO Write Data.vi<append>
+<B>Task Name: </B>_unnamedTask<52>::-50103
+2011-01-21 11:23:26.226	Control_Loops	Shutdown Complete
+2011-01-21 11:23:26.273	Instrument_IO	Shutdown Complete

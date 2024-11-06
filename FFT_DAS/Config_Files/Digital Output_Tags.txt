@@ -1,0 +1,1 @@
+Dev1/port0/line1	WDT_PUL_BP	DO	FALSE	1	1	PULSE(1,1)

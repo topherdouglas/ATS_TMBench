@@ -1,0 +1,21 @@
+[part info]
+PSID = 50
+P_Tol = 0.5
+C_Tol = 0.5
+Excel_template = "C:\Users\TMTEST\Desktop\Torque Motor Tester\Part Configs\2718832OLD.xls"
+
+[sequence]
+header = mA	Dwell	MinFlow	MaxFlow
+step001 = 0	45	0	25
+step002 = 20	30	20	35
+step003 = 50	30	77	96
+step004 = 100	30	168	195
+step005 = 150	30	260	294
+step006 = 200	30	340	392
+step007 = 250	30	440	490
+step008 = 200	30	340	392
+step009 = 150	30	260	294
+step010 = 100	30	168	195
+step011 = 50	30	77	96
+Step012 = 20	30	20	35
+Step013 = 0	30	0	20

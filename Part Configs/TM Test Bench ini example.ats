@@ -1,0 +1,10 @@
+[part info]
+PSID = 50
+P_Tol = 5
+C_Tol = 0.5
+Excel_template = "/C/Users/<user name>/../Part Configs/<part number>.ats"
+
+[sequence]
+header = mA	Dwell	MinFlow	MaxFlow
+step001 = 0	10	0	30
+step002 = 20	10	35	60

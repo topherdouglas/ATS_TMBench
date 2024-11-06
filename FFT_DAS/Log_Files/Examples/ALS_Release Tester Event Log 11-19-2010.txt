@@ -1,0 +1,59 @@
+11/19/2010	2:49:56 PM	ALS_Event	System Startup
+11/19/2010	2:51:50 PM	ALS_Event	Start Test - Type = Voltage Ramp
+11/19/2010	2:51:51 PM	ALS_Error	Call Chain: TAB_Parse Payload-INFO from Packet.vi,NVM_Set Input Channel Mode-Range.vi,ALS_Release Tester Main_Beta1.vi
+CRC: Calculated ÿÿ
+Returned ::5002
+11/19/2010	2:52:14 PM	ALS_Event	Shutting System down
+11/19/2010	2:52:14 PM	ALS_Event	Shutdown Complete
+11/19/2010	2:53:00 PM	ALS_Event	System Startup
+11/19/2010	2:54:03 PM	ALS_Event	Start Test - Type = Voltage Ramp
+11/19/2010	2:56:07 PM	ALS_Error	Call Chain: TAB_Parse Payload-INFO from Packet.vi,NVM_Set Input Channel Mode-Range.vi,ALS_Release Tester Main_Beta1.vi
+CRC: Calculated ÿÿ
+Returned ::5002
+11/19/2010	2:56:08 PM	ALS_Event	Shutting System down
+11/19/2010	2:56:08 PM	ALS_Event	Shutdown Complete
+11/19/2010	2:56:13 PM	ALS_Event	System Startup
+11/19/2010	2:56:28 PM	ALS_Event	Start Test - Type = Voltage Ramp
+11/19/2010	2:58:11 PM	ALS_Error	Call Chain: TAB_Parse Payload-INFO from Packet.vi,NVM_Set Input Channel Mode-Range.vi,ALS_Release Tester Main_Beta1.vi
+CRC: Calculated ÿÿ
+Returned ::5002
+11/19/2010	2:58:12 PM	ALS_Event	Shutting System down
+11/19/2010	2:58:12 PM	ALS_Event	Shutdown Complete
+11/19/2010	2:58:39 PM	ALS_Event	System Startup
+11/19/2010	2:59:59 PM	ALS_Event	Start Test - Type = Voltage Ramp
+11/19/2010	3:00:59 PM	ALS_Error	niDCPower Abort.vi<ERR>The session handle is not valid.
+
+ ::-1074130544
+11/19/2010	3:01:04 PM	ALS_Event	Shutting System down
+11/19/2010	3:01:04 PM	ALS_Event	Shutdown Complete
+11/19/2010	3:01:16 PM	ALS_Event	System Startup
+11/19/2010	3:02:29 PM	ALS_Event	Start Test - Type = Voltage Ramp
+11/19/2010	3:16:16 PM	ALS_Error	niDCPower Abort.vi<ERR>The session handle is not valid.
+
+ ::-1074130544
+11/19/2010	3:16:47 PM	ALS_Event	Shutting System down
+11/19/2010	3:16:47 PM	ALS_Event	Shutdown Complete
+11/19/2010	4:09:55 PM	ALS_Event	System Startup
+11/19/2010	4:11:25 PM	ALS_Event	Start Test - Type = Voltage Ramp
+11/19/2010	4:14:19 PM	ALS_Error	niDCPower Abort.vi<ERR>The session handle is not valid.
+
+ ::-1074130544
+11/19/2010	4:14:39 PM	ALS_Event	Shutting System down
+11/19/2010	4:14:39 PM	ALS_Event	Shutdown Complete
+11/19/2010	4:24:13 PM	ALS_Event	System Startup
+11/19/2010	4:25:18 PM	ALS_Event	Start Test - Type = Voltage Ramp
+11/19/2010	4:28:17 PM	ALS_Event	End Test
+11/19/2010	4:34:10 PM	ALS_Event	Start Test - Type = Voltage Ramp
+11/19/2010	4:40:26 PM	ALS_Event	End Test
+11/19/2010	4:40:26 PM	ALS_Event	Shutting System down
+11/19/2010	4:40:26 PM	ALS_Event	Shutdown Complete
+11/19/2010	4:50:48 PM	ALS_Event	System Startup
+11/19/2010	4:52:10 PM	ALS_Event	Start Test - Type = Voltage Ramp
+11/19/2010	4:56:37 PM	ALS_Event	End Test
+11/19/2010	4:56:53 PM	ALS_Event	Shutting System down
+11/19/2010	4:56:53 PM	ALS_Event	Shutdown Complete
+11/19/2010	4:58:18 PM	ALS_Event	System Startup
+11/19/2010	4:59:36 PM	ALS_Event	Start Test - Type = Voltage Ramp
+11/19/2010	5:01:57 PM	ALS_Event	End Test
+11/19/2010	5:03:48 PM	ALS_Event	Shutting System down
+11/19/2010	5:03:48 PM	ALS_Event	Shutdown Complete

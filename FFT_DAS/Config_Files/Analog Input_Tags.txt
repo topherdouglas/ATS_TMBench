@@ -1,0 +1,6 @@
+Dev1/ai0	Supply Pressure	psig	3000	0	5	1	Volts	rse
+Dev1/ai1	Diff Press (50psid)	psid	50	0	5	1	Volts	rse
+Dev1/ai2	Back Pressure	psig	10	0	5	1	Volts	rse
+Dev1/ai3	Bypass Pressure	psig	60	0	5	1	Volts	rse
+Dev1/ai4	Diff Press (100psid)	psid	10	0	5	1	Volts	rse
+Dev1/ai5	New_2	unknown	10	0	5	1	Volts	rse

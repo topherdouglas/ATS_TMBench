@@ -1,0 +1,24 @@
+[part info]
+PSID = 50
+P_Tol = 0.5
+C_Tol = 0.5
+
+[sequence]
+header = mA	Dwell	MinFlow	MaxFlow
+step001 = 0	45	0	37
+step002 = 20	30	38	58
+step003 = 35	30	76	88
+step004 = 50	30	120	130
+step005 = 80	30	199	234
+step006 = 120	30	305	358
+step007 = 160	30	405	475
+step008 = 200	30	502	589
+step009 = 250	30	624	732
+step010 = 200	30	502	589
+step011 = 160	30	405	475
+Step012 = 120	30	305	358
+Step013 = 80	30	199	234
+step014 = 50	30	120	130
+step015 = 35	30	76	88
+step016 = 20	30	38	58
+step017 = 0	45	0	37

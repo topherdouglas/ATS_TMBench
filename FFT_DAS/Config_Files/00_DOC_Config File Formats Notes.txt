@@ -1,0 +1,66 @@
+The Channel Tags for the IO, is defined by set of tab delimited text
+files.
+
+Analog Input_Tags.txt   <- These are combined into one table if the
+Thermocouples_Tags.txt  <- TCs are read by NI HW, like an SCXI-1102
+
+Analog Output_Tags.txt
+Digital Input_Tags.txt
+Digital Output_Tags.txt
+
+External Instruments_Tags.txt   <- Does not provide task directly, just info
+Memory_Tags.txt         <- Memory Tags are for internal variables that
+                           do not have hardware IO directly associated
+						   
+We will sometimes do PID variables with Mem Tags (but not for Hartwell)
+
+All files must be in the ..\Config_files\dir, but they can be empty if
+the current project does not need a certain data type. 
+
+For Hartwell we use Analog Input and Output files only. The others
+can be blank, but I am leaving in one channel line on the other files
+just for example.
+
+********************************************
+DAQmx Config File Column Definitions
+********************************************
+AI Calibration Scales for DAQmx
+ TagFile Column  = DAQmx VI Control Inputs
+ 
+ 
+
+AI Regular DAQmx Configuration
+ TagFile Column  = DAQmx VI Control Inputs
+ 
+ Channel_Address = Channel Address          //Ex: Dev1/ai0 or cDAQ1Mod1/ai0
+ Channel_Tag     = Channel Name             //Ex: Supply Pressure
+ Channel_Units   = Units                    //Ex: psig
+ Channel_Max     = Custom Scaled Max        //the value in engineering units
+ Channel_Min     = Custom Scaled Min        //the value in engineering units
+ Prescale_Max    = minimum value            //input signal max to DAQmx device
+ Prescale_Min    = maximum value            //input signal min to DAQmx device
+ Prescale_Units  = prescale signal type     //Ex: Volts or Amps
+ InputTermConfig = Type of input wiring     //Ex: RSE, NRSE, Differential (not case sensitive)
+
+AO Regular DAQmx Configuration
+ TagFile Column  = DAQmx VI Control Inputs
+ 
+ Channel_Address = Channel Address          //Ex: Dev1/ai0 or cDAQ1Mod1/ai0
+ Channel_Tag     = Channel Name             //Ex: Supply Pressure
+ Channel_Units   = Units                    //Ex: psig
+ Channel_Max     = Custom Scaled Max        //the value in engineering units
+ Channel_Min     = Custom Scaled Min        //the value in engineering units
+ Prescale_Max    = minimum value            //input signal max to DAQmx device
+ Prescale_Min    = maximum value            //input signal min to DAQmx device
+ Prescale_Units  = prescale signal type     //Ex: Volts or Amps
+
+ 
+DI Calibration Scales for DAQmx
+ TagFile Column  = DAQmx VI Control Inputs
+ 
+ Channel_Address = lines
+ Channel_Tag     = name to assign
+ Channel_Type    = INPUT | OUTPUT	;used to select VI
+ Channel_Logic   = ->DAQmx Channel.DIO.Invert Lines method
+ Channel_Input_Condition   =   
+ 
